@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1513604886 source:e:\project cpp\00000 helloc++\main.cpp
+	"header.h"
+
+1513604848 e:\project cpp\00000 helloc++\header.h
+	<iostream>
+	<conio.h>
+
+1513604943 source:e:\project cpp\00000 helloc++\coba.cpp
+	"header.h"
+
+1513604936 source:e:\project cpp\00000 helloc++\stage\stage1.cpp
+

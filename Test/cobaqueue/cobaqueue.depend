@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1522160512 source:d:\belajar strukdat\cobaqueue\cobaqueue.cpp
+	"cobaqueue.h"
+
+1522149486 d:\belajar strukdat\cobaqueue\cobaqueue.h
+	<iostream>
+
+1522159726 source:d:\belajar strukdat\cobaqueue\main.cpp
+	"cobaqueue.h"
+
+1522168512 source:e:\project cpp\test\cobaqueue\main.cpp
+	"cobaqueue.h"
+
+1522167844 e:\project cpp\test\cobaqueue\cobaqueue.h
+	<iostream>
+
+1522168779 source:e:\project cpp\test\cobaqueue\cobaqueue.cpp
+	"cobaqueue.h"
+
